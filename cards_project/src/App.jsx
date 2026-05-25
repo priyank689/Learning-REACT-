@@ -93,7 +93,14 @@ const App = () => {
     location: "Santa Clara,USA"
   },
   {
-    
+    brandLogo: "https://toppng.com/uploads/preview/oracle-logo-115360039232wypouqbv7.png",
+    companyName: "Oracle",
+    datePosted: "8 days ago",
+    post: "Database Administrator",
+    tag1: "Full Time",
+    tag2: "Mid Level",
+    pay: "$70/hour",
+    location: "Mumbai,India"
   }
 ];
   return (
