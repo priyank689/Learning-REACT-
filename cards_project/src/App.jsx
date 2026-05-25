@@ -1,4 +1,17 @@
+import Card from './components/Card'
 
+const App = () => {
+  const jobOpenings = [
+  {
+    brandLogo: "https://static.vecteezy.com/system/resources/thumbnails/004/201/564/small/meta-social-network-emblem-blue-stylish-letter-m-or-mobius-band-vector.jpg",
+    companyName: "Meta",
+    datePosted: "5 days ago",
+    post: "Fronted Engineer",
+    tag1: "Full Time",
+    tag2: "Junior Level",
+    pay: "$65/hour",
+    location: "Menlo Park,USA"
+  },
   {
     brandLogo: "https://static.vecteezy.com/system/resources/thumbnails/019/766/223/small_2x/amazon-logo-amazon-icon-transparent-free-png.png",
     companyName: "Amazon",
